@@ -1,6 +1,13 @@
 # Entrepenator
 An open source network/ platform for projects from idea to deployment and income. Each project "owns itself".
 
+## Project goals
+Give power to developers (and optionally to the backers and idea givers) of a project.
+
+All profits go to the developers based on their contribution and optionally to backers and idea givers.
+
+People can work and collaborate on projects and get paid for their efforts, without working for a corporation ("man in the middle"). Give the power back to developers and optionally to investors. Developers can invest in a project by working on it.
+
 ### Technologies
 Code versioning: git
 Storage: IPFS
