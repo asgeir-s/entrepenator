@@ -2,15 +2,17 @@
 An open source network/ platform for projects from idea to deployment and income. Each project "owns itself".
 
 ## Project goals
-Give power to developers (and optionally to the backers and idea givers) of a project.
+Give power to developers (and optionally to the backers and idea givers).
 
-All profits go to the developers based on their contribution and optionally to backers and idea givers.
+All profits go to the developers based on their contribution, and optionally to backers and idea givers.
 
-People can work and collaborate on projects and get paid for their efforts, without working for a corporation ("man in the middle"). Give the power back to developers and optionally to investors. Developers can invest in a project by working on it.
+People can work and collaborate on projects and get paid for their efforts, without working for a corporation ("man in the middle"). Give the power back to developers and optionally to investors. Developers invest in a project by working on it.
 
-If you have a grat idea, you do not need to go through all the hassle of starting and managing a company. Instead, you can start a project and set rules that secure your part of the projects income (e.g., 5% of all profits goes to the idea giver). 
+If you have a grat idea, you do not need to go through all the hassle of starting and managing a company. Instead, you can start a project and set rules that secure your part of the projects profits (e.g., 5% of all profits goes to the idea giver). 
 
-Have no accountant, no layers, no bosses, no disputes. 
+Have no accountant, no layers, no bosses.
+Work when you want, where you want, how much you want, on what you want and what you believe in.
+
 ### Technologies
 Code versioning: git
 Storage: IPFS
