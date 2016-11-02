@@ -17,6 +17,7 @@ project is the main "block".
 
 idea -> backing -> develop -> (mvp) deploy -> develop (passive incom)
 
+#Process
  1.  Someone starts a project:
       - explain their idea
       - set voting rules (who decides what is merged etc.)
@@ -45,10 +46,12 @@ The profits can for instance go:
 - to the developers (based on contribution)
 - to some charity
 
+#Project Definition
+Explains the idea and rules (and how the rules can be changed) for the project.
+For instance, before the MVP the idea giver decides what is merged and after the MVP the ide giver, backers and developers decide what happens by voting.
 
-After the MVP the ide giver, backers and developers decide what happens.
 
-Plugin based
+#Plugins
 All plugins must accept bitcoin payment, and bitcoin payouts where appropriate.
 plugin for:
 - marketing (advertising companies)
