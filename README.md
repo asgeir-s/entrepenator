@@ -10,14 +10,14 @@ People can work and collaborate on projects and get paid for their efforts, with
 
 If you have a grat idea, you do not need to go through all the hassle of starting and managing a company. Instead, you can start a project and set rules that secure your part of the projects profits (e.g., 5% of all profits goes to the idea giver). 
 
-- Have no accountant, no layers, no bosses.
-- Work when you want, where you want, how much you want, on what you want and what you believe in.
+- *Have no accountant, no layers, no bosses.*
+- *Work when you want, where you want, how much you want, on what you want and what you believe in.*
 
 ### Technologies
-- *Code versioning*: git
-- *Storage*: IPFS
-- *Contracts* (voting and distribution of potential profits): Etherum
-- *Payment*: Bitcoin
+- **Code versioning**: git
+- **Storage**: IPFS
+- **Contracts** (voting and distribution of potential profits): Etherum
+- **Payment**: Bitcoin
 
 Development language: Go
 
