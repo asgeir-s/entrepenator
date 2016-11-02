@@ -8,7 +8,7 @@ All profits go to the developers based on their contribution and optionally to b
 
 People can work and collaborate on projects and get paid for their efforts, without working for a corporation ("man in the middle"). Give the power back to developers and optionally to investors. Developers can invest in a project by working on it.
 
-If you have a grat idea, you do not need to go through all the hassle of starting and managing a company. Instead, you can start a project and set rules that secure your part of the projects income (e.g.,. 5% of all profits goes to the idea giver). 
+If you have a grat idea, you do not need to go through all the hassle of starting and managing a company. Instead, you can start a project and set rules that secure your part of the projects income (e.g., 5% of all profits goes to the idea giver). 
 
 Have no accountant, no layers, no bosses, no disputes. 
 ### Technologies
@@ -24,8 +24,6 @@ Development language: Go
       - explain their idea
       - set voting rules (who decides what is merged etc.)
       - set profit distribution rules
-      - how is the MVP accepted
-      - what happens after the MVP
 
  2. (optional) People can put Bitcoin on the idea. For buying plugins.
 
@@ -50,8 +48,7 @@ The profits can for instance go:
 
 ## Project Definition
 Explains the idea and rules (and how the rules can be changed) for the project.
-For instance, before the MVP the idea giver decides what is merged and after the MVP the ide giver, backers, and developers decide what happens by voting.
-
+For instance, define an MVP and have rules like before the MVP the idea giver decides what is merged, and after the MVP the idea giver, backers, and developers decide what happens by voting.
 
 ## Plugins
 All plugins must use bitcoin as payment and payouts. Payments and payouts come from the wallets controlled by the project.
@@ -62,5 +59,5 @@ Some example plugins:
 - continues integration (test runners)
 
 ## Problems
-- what if someone steels someone elses idea?
-- what if someone steels the product and publish it themself?
+- what if someone steals someone else's idea?
+- what if someone steals the product and publish it themselves?
