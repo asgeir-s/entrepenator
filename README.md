@@ -60,3 +60,7 @@ Some example plugins:
 - marketing (advertising companies)
 - advisors / developers (field experts, code experts, etc.)
 - continues integration (test runners)
+
+## Problems
+- what if someone steels someone elses idea?
+- what if someone steels the product and publish it themself?
