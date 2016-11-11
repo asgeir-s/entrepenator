@@ -19,7 +19,7 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 - **Contracts** (voting and distribution of potential profits): Etherum
 - **Payment**: Bitcoin
 
-Development language: Go
+Development language: Go / ES6 / HTML / SCSS
 
 ## Process
  1.  Someone starts a project:
