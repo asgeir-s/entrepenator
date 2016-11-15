@@ -1,5 +1,5 @@
 # Entrepenator
-An open source network/ platform for projects from idea to deployment and income. Each project "owns itself".
+An open source and free network/ platform for projects from idea to deployment and income. Each project "owns itself". While the protocoll is free and not for profite, the hosted projects can be for profit.
 
 ## Project goals
 Give power to developers (and optionally to the backers and idea givers).
