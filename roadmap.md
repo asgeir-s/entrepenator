@@ -10,11 +10,11 @@
 - vote on what is head, based on the number of tokens owned (place the hash in ethereum)
 
 
-# Later#
+## Later
 - tasks (create, accept, reject)
 - public / private project
 - bonty on tasks
 - investors
-- plugins
+- plugins (deployment, testing, etc.)
 - profit distrebution
 - gui (like github)
