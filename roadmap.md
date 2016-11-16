@@ -11,10 +11,9 @@
 
 
 ## Later
-- tasks (create, accept, reject)
 - public / private project
 - bonty on tasks
 - investors
 - plugins (deployment, testing, etc.)
 - profit distrebution
-- gui (like github)
+- gui (in IPFS webpage)
