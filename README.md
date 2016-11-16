@@ -14,10 +14,9 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 - *Work when you want, where you want, how much you want, on what you want and what you believe in.*
 
 ### Technologies
-- **Code versioning**: git
 - **Storage**: IPFS
 - **Contracts** (voting and distribution of potential profits): Etherum
-- **Payment**: Bitcoin
+- **Payment**: Etherum
 
 Development language: Go / ES6 / HTML / SCSS
 
@@ -36,6 +35,8 @@ Development language: Go / ES6 / HTML / SCSS
  4. Developers can start to work on the project.
 
  5. Deployment scripts are created.
+ 
+ 6. A relese is proposed and voted on
 
  6. When the MVP is done there should be a product in some store, on the web or other. Through a plugin.
 
@@ -63,3 +64,17 @@ Some example plugins:
 ## Problems
 - what if someone steals someone else's idea?
 - what if someone steals the product and publish it themselves?
+
+The work can be done on git anywhere (Github/ local git / local file, etc).
+
+When anybody wants to release a new version: 
+- the code is added to IPFS
+- the contract receives the IPFS hash, the list of contributors (git short log -s -n and there address)
+- token holders (contributors and optional backers and idea haver) votes on whether to accept the new version
+- if it is accepted it's automatically deployment with included deployment script to a provider via a plugin (that has to pay back ethereum when the app makes money)
+
+
+
+- on every new release all contributors have to have the same amount of commits or more.
+
+- payment for services can be accepted in etc or ect via merchant tools for instance exchange to ethereum
