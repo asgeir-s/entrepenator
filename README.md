@@ -49,6 +49,20 @@ The profits can for instance go:
 - to the developers (based on contribution)
 - to some charity
 
+## How to propose a new relese
+The work can be done on git anywhere (Github/ local git / local file, etc).
+
+When anybody wants to release a new version: 
+- the code is added to IPFS
+- the contract receives the IPFS hash, the list of contributors (git short log -s -n and there address)
+- token holders (contributors and optional backers and idea haver) votes on whether to accept the new version
+- if it is accepted it's automatically deployment with included deployment script to a provider via a plugin (that has to pay back ethereum when the app makes money)
+
+- on every new release all contributors have to have the same amount of commits or more.
+
+## How payments can be accepted
+- payment for services can be accepted in etc or ect via merchant tools for instance exchange to ethereum
+
 ## Project Definition
 Explains the idea and rules (and how the rules can be changed) for the project.
 For instance, define an MVP and have rules like before the MVP the idea giver decides what is merged, and after the MVP the idea giver, backers, and developers decide what happens by voting.
@@ -64,17 +78,3 @@ Some example plugins:
 ## Problems
 - what if someone steals someone else's idea?
 - what if someone steals the product and publish it themselves?
-
-The work can be done on git anywhere (Github/ local git / local file, etc).
-
-When anybody wants to release a new version: 
-- the code is added to IPFS
-- the contract receives the IPFS hash, the list of contributors (git short log -s -n and there address)
-- token holders (contributors and optional backers and idea haver) votes on whether to accept the new version
-- if it is accepted it's automatically deployment with included deployment script to a provider via a plugin (that has to pay back ethereum when the app makes money)
-
-
-
-- on every new release all contributors have to have the same amount of commits or more.
-
-- payment for services can be accepted in etc or ect via merchant tools for instance exchange to ethereum
