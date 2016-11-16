@@ -53,7 +53,7 @@ The profits can for instance go:
 The work can be done on git anywhere (Github/ local git / local file, etc).
 
 When anybody wants to release a new version: 
-- the code is added to IPFS
+- the code (or data or whatever) is added to IPFS
 - the contract receives the IPFS hash, the list of contributors (git short log -s -n and there address)
 - token holders (contributors and optional backers and idea haver) votes on whether to accept the new version
 - if it is accepted it's automatically deployment with included deployment script to a provider via a plugin (that has to pay back ethereum when the app makes money)
