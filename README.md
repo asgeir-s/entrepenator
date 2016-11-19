@@ -19,6 +19,7 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 - **Payment**: Etherum
 
 **Frontend**: Angular 2/ Typescript / HTML / SCSS
+
 **Backend**: Etherum / Solidity
 
 ## Process
