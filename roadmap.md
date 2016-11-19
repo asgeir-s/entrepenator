@@ -3,11 +3,11 @@
   - set name
   - set description
   - create a token for it
-  - set token sellin price
+  - developers get ne token per commit (on relese)
   
-- have a get repository in IPFS
-
-- vote on what is head, based on the number of tokens owned (place the hash in ethereum)
+- relese artifact in IPFS with deploument script
+- developers can propose releses together with list of contributions
+- vote on wheter to accept new relese (place the IPFS hash in ethereum)
 
 
 ## Later
