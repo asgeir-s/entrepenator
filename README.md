@@ -50,7 +50,7 @@ plugins can be paid % of total income or be paid on next release
 
 
 
-
+# Old
 ## Process
  1.  Someone starts a project:
       - explain their idea
