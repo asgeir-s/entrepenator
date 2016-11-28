@@ -4,8 +4,8 @@
 
 ## Variables
 
-public releseHash - can be used to verify relese packages.
-public tokenPrice
+- public releseHash - can be used to verify relese packages.
+- public tokenPrice
 
 
 ## Relese
