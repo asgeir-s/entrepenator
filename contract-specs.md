@@ -1,6 +1,6 @@
 ### constructor
 **Inputs**
-- 
+- owner
 
 
 ### proposeRelese
