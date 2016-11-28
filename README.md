@@ -80,3 +80,5 @@ Projects can be totally private or register in the project registry. In the regi
 
 ## Voting
 Voting rules must be public and always based on amount of tokens owned.
+
+Can vote on wherher it should be a payout or not and how much the payout should be. If accepted, the payout amount will be distrubuted based on token distrubution.
