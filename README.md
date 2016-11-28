@@ -58,7 +58,7 @@ if accepted:
 ## Tokens
 Each project has its own token. Tokens are used for voting wight and for distrubuting project profits.
 
-Tokens are erned by contributing and can also be bought. On every new release all contributors have to have the same amount of total contrigutions or more. The differanse from last time is payed out.
+Tokens are erned by contributing and can also be bought. On every new release all contributors have to have the same amount of total contrigutions or more. The differanse from last relese is payed out.
 
 Restrictions on token can be set when a project is started. For instance:
 - 10% of tokens should always be owned by project creator
