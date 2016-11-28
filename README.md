@@ -1,5 +1,5 @@
 # Entrepenator
-An open source and free network/ platform for projects from idea to deployment and income. Each project "owns itself". While the protocoll is free and not for profite, the hosted projects can be for profit.
+An open source and free network/ platform for projects from idea to deployment and income. Each project "owns itself". While the protocoll is free and not for profite, the hosted projects can be for profit. Anyone can start projects.
 
 ## Project goals
 Give power to developers (and optionally to the backers and idea givers).
@@ -22,8 +22,7 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 
 **"Backend"**: Etherum / Solidity
 
-
-## Service Providers
+### Service providers
 a service provider can be: 
 - server to run the code on
 - server to host the HTML
@@ -31,28 +30,44 @@ a service provider can be:
 - database provider
 - USD to ETH instant payment provider (coinbase/bitpay)
 
+Service providers can be payed permanent amount or it can be payed a percentage of the total income (god for marketing for instance).
+
 ### Release pack
 Hash of this is used when proposing a relese.
 - release binary (code, deplyment scripts etc)
 - contribution list
 
-### Payments
+### Payment pack
 Used to pay service providers etc.
 - a list of payments
 
-
-
-1. create project (with URL)
-2. propose release pack
-3. vote on release (based on number of tokens)
+## Process
+1. create project
+2. (optionally) registrer in the project register
+3. someone with propose release pack
+4. vote on release (based on number of tokens)
 if accepted:
-4. contributes get new tokens based on their contributions
-5. the relese binary is sent to to plugin providers. They validate the relese against the currently accepted relese. And runs their deployment script
+5. contributes get new tokens based on their contributions
+6. the relese binary is sent to to plugin providers. They validate the relese pack against the currently accepted relese(hash). And runs their deployment script
 
-tokens can also be sold any time: getting investors
 
-all earnings from plugins ande or directly get paid to the project address
-plugins can be paid % of total income or be paid on next release
+## Tokens
+Each project has its own token. Tokens are used for voting wight and for distrubuting project profits.
+
+Tokens are erned by contributing and can also be bought.
+
+Restrictions on token can be set when a project is started. For instance:
+- 10% of tokens should always be owned by project creator
+- max 45% of tokens can be owned by investors at any given time (can be sold)
+
+Token price is set by proposing a price then voting on it.
+
+With the rules set above and 45% of tokens sold, investors would have to wait for contributors to earn more tokens before more tokens can be sold. In this case total amount of sold tokens must always be below 45% of all tokens.
+
+
+## Finances
+All earnings from service providers and/or directly gets paid to the project address.
+
 
 Projects can be totally private or register in the project registry.
 
