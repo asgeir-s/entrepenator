@@ -29,6 +29,10 @@ a service provider can be:
 - domain provider
 - database provider
 - USD to ETH instant payment provider (coinbase/bitpay)
+- deployment providers (AWS, Apple Store, Google Play)
+- marketing (advertising companies)
+- advisors / developers (field experts, code experts, etc.)
+- continues integration (test runners)
 
 Service providers can be payed permanent amount or it can be payed a percentage of the total income (god for marketing for instance).
 
@@ -44,17 +48,18 @@ Used to pay service providers etc.
 ## Process
 1. create project
 2. (optionally) registrer in the project register
-3. someone with propose release pack
-4. vote on release (based on number of tokens)
+3. work on project anyware (for instance GitHub)
+4. someone with propose release pack
+5. vote on release (based on number of tokens)
 if accepted:
-5. contributes get new tokens based on their contributions
-6. the relese binary is sent to to plugin providers. They validate the relese pack against the currently accepted relese(hash). And runs their deployment script
+6. contributes get new tokens based on their contributions
+7. the relese binary is sent to to plugin providers. They validate the relese pack against the currently accepted relese(hash). And runs their deployment script
 
 
 ## Tokens
 Each project has its own token. Tokens are used for voting wight and for distrubuting project profits.
 
-Tokens are erned by contributing and can also be bought.
+Tokens are erned by contributing and can also be bought. On every new release all contributors have to have the same amount of total contrigutions or more. The differanse from last time is payed out.
 
 Restrictions on token can be set when a project is started. For instance:
 - 10% of tokens should always be owned by project creator
@@ -64,75 +69,15 @@ Token price is set by proposing a price then voting on it.
 
 With the rules set above and 45% of tokens sold, investors would have to wait for contributors to earn more tokens before more tokens can be sold. In this case total amount of sold tokens must always be below 45% of all tokens.
 
-
 ## Finances
 All earnings from service providers and/or directly gets paid to the project address.
 
-
-Projects can be totally private or register in the project registry.
-
 No one in the project has diret controll over funds, domain name etc. All is managed through ethereum and plugin providers.
 
+Payout rules are set when a project is created. Payout is always based on the amount of tokens owned.
 
+## Registry
+Projects can be totally private or register in the project registry. In the registry projects can have a discription and URL to attract investors.
 
-
-
-# Old
-## Process
- 1.  Someone starts a project:
-      - explain their idea
-      - set voting rules (who decides what is merged etc.)
-      - set profit distribution rules
-
- 2. (optional) People can put Bitcoin on the idea. For buying plugins.
-
- 3. People can start working on the idea: 
-      - discussion 
-      - creating task 
- 
- 4. Developers can start to work on the project.
-
- 5. Deployment scripts are created.
- 
- 6. A relese is proposed and voted on
-
- 6. When the MVP is done there should be a product in some store, on the web or other. Through a plugin.
-
-The money earned is distributed based on the rules set at the start of the project and on voting (if allowed in the project definition).
-
-The profits can for instance go:
-- back to the project, 
-- to the ide giver, 
-- to the backers  
-- to the developers (based on contribution)
-- to some charity
-
-## How to propose a new relese
-The work can be done on git anywhere (Github/ local git / local file, etc).
-
-When anybody wants to release a new version: 
-- the code (or data or whatever) is added to IPFS
-- the contract receives the IPFS hash, the list of contributors (git short log -s -n and there address)
-- token holders (contributors and optional backers and idea haver) votes on whether to accept the new version
-- if it is accepted it's automatically deployment with included deployment script to a provider via a plugin (that has to pay back ethereum when the app makes money)
-
-- on every new release all contributors have to have the same amount of commits or more.
-
-## How payments can be accepted
-- payment for services can be accepted in etc or ect via merchant tools for instance exchange to ethereum
-
-## Project Definition
-Explains the idea and rules (and how the rules can be changed) for the project.
-For instance, define an MVP and have rules like before the MVP the idea giver decides what is merged, and after the MVP the idea giver, backers, and developers decide what happens by voting.
-
-## Plugins
-All plugins must use bitcoin as payment and payouts. Payments and payouts come from the wallets controlled by the project.
-Some example plugins:
-- deployment providers (AWS, Apple Store, Google Play)
-- marketing (advertising companies)
-- advisors / developers (field experts, code experts, etc.)
-- continues integration (test runners)
-
-## Problems
-- what if someone steals someone else's idea?
-- what if someone steals the product and publish it themselves?
+## Voting
+Voting rules must be public and always based on amount of tokens owned.
