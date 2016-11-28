@@ -20,31 +20,43 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 
 **Frontend**: Angular 2/ Typescript / HTML / SCSS
 
-**Backend**: Etherum / Solidity
+**"Backend"**: Etherum / Solidity
 
 
-# New
-a plugin can be: 
+## Service Providers
+a service provider can be: 
 - server to run the code on
 - server to host the HTML
 - domain provider
 - database provider
 - USD to ETH instant payment provider (coinbase/bitpay)
 
-release pack: release binary, contribution list, a list of payments (if any), the plugin dependencies their deployment script, payment address and % they get paid
+### Release pack
+Hash of this is used when proposing a relese.
+- release binary (code, deplyment scripts etc)
+- contribution list
+
+### Payments
+Used to pay service providers etc.
+- a list of payments
+
+
 
 1. create project (with URL)
 2. propose release pack
 3. vote on release (based on number of tokens)
 if accepted:
 4. contributes get new tokens based on their contributions
-5. plugin providers picks up the release and runs their deployment script
+5. the relese binary is sent to to plugin providers. They validate the relese against the currently accepted relese. And runs their deployment script
 
 tokens can also be sold any time: getting investors
 
 all earnings from plugins ande or directly get paid to the project address
 plugins can be paid % of total income or be paid on next release
 
+Projects can be totally private or register in the project registry.
+
+No one in the project has diret controll over funds, domain name etc. All is managed through ethereum and plugin providers.
 
 
 
