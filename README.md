@@ -14,7 +14,6 @@ If you have a grat idea, you do not need to go through all the hassle of startin
 - *Work when you want, where you want, how much you want, on what you want and what you believe in.*
 
 ### Technologies
-- **Storage**: anyware
 - **Contracts** (voting and distribution of potential profits): Etherum
 - **Payment**: Etherum
 
